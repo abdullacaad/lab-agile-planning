@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" font-family="Segoe UI, Arial, sans-serif">
+<rect width="100%" height="100%" rx="16" fill="#0f172a"/>
+<text x="30" y="42" font-size="24" font-weight="700" fill="#f8fafc">Lab: Agile Planning — Counter Service</text>
+<text x="30" y="68" font-size="14" fill="#94a3b8">IBM Agile Development and Scrum · GitHub Issues · User stories</text>
+<rect x="30" y="90" width="200" height="80" rx="12" fill="#2563eb"/>
+<text x="130" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1 · USER STORIES</text>
+<text x="130" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">Issues #1–#7 · As a / I need</text>
+<rect x="270" y="90" width="200" height="80" rx="12" fill="#7c3aed"/>
+<text x="370" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2 · BACKLOG</text>
+<text x="370" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">counter service stories</text>
+<rect x="510" y="90" width="200" height="80" rx="12" fill="#059669"/>
+<text x="610" y="122" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3 · COUNTER SERVICE</text>
+<text x="610" y="146" font-size="12" fill="#e2e8f0" text-anchor="middle">planned · multiple counters</text>
+<rect x="30" y="210" width="200" height="80" rx="12" fill="#0891b2"/>
+<text x="130" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4 · PERSIST + RESET</text>
+<text x="130" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">survives restarts · redo counts</text>
+<rect x="270" y="210" width="200" height="80" rx="12" fill="#dc2626"/>
+<text x="370" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5 · DEPLOY TO CLOUD</text>
+<text x="370" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">access from anywhere</text>
+<rect x="510" y="210" width="200" height="80" rx="12" fill="#ea580c"/>
+<text x="610" y="242" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Acceptance criteria</text>
+<text x="610" y="266" font-size="12" fill="#e2e8f0" text-anchor="middle">Given / When / Then per story</text>
+</svg>
